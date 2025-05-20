@@ -1,0 +1,37 @@
+.root{
+    -fx-padding: 15;
+    -fx-background-color: cornsilk;
+}
+
+.label{
+    -fx-text-fill: #4682b4;
+    -fx-font-size: 1.5em;
+    -fx-font-weight: bold;
+}
+
+#dateToday{
+    -fx-font-weight: bold;
+    -fx-text-fill:coral;
+}
+
+#dateHorsMois{
+    -fx-text-fill: grey;
+
+}
+
+.scroll-pane{
+    -fx-background: #ddf5ee;
+    -fx-border-color: #5F9EA0;
+}
+
+#opaque{
+    -fx-background-color: white;
+}
+
+.toggle-button{
+    -fx-background-color:white;
+}
+
+.toggle-button:selected{
+    -fx-background-color: gray;
+}
